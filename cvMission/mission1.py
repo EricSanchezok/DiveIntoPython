@@ -53,6 +53,3 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-
-
-# 练习：使用电脑摄像头，使用霍夫圆检测，检测出乒乓球的质心和外接圆，并显示出来。
